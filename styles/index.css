@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.uncoming{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: black;
+}
+.item{
+    margin: 1rem;
+
+    justify-content: space-around;
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+footer img{
+    padding: 1rem;
+    width: 5%;
+    height: 10%;
+    background-color: white;
+}
+.footer{
+    background-color: white;
+}
+
+A{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    
+    background-color: white;
+    color:black;
+}
+
+img{
+max-width: 50%;
+max-height: 50%;
+}
